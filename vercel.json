@@ -18,14 +18,8 @@
     }
   },
   "env": {
-    "VITE_API_URL": {
-      "description": "Frontend API URL",
-      "default": "/_/backend/api"
-    },
-    "PORT": {
-      "description": "Backend port",
-      "default": "5551"
-    }
+    "VITE_API_URL": "/_/backend/api",
+    "PORT": "5551"
   },
   "rewrites": [
     {
