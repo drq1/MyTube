@@ -13,8 +13,7 @@
     "backend": {
       "entrypoint": "backend",
       "routePrefix": "/_/backend",
-      "framework": "express",
-      "runtime": "nodejs20.x"
+      "framework": "express"
     }
   },
   "env": {
